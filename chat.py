@@ -12,9 +12,6 @@ import textwrap
 
 import google.generativeai as genai
 
-from IPython.display import display
-from IPython.display import Markdown
-
 
 os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
