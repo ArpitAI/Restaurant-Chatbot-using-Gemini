@@ -1,0 +1,4 @@
+[runtime]
+# Set the desired Python version. Python 3.9, 3.10, 3.11 or 3.12 are good stable choices.
+# Let's try 3.10 first.
+python = "3.10"
